@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Biblioteca Centrală",
+    "type": "studiu",
+    "location": "Corp A, Etaj 2",
+    "program": "08:00 - 20:00",
+    "tags": ["liniște", "cărți", "wifi"]
+  },
+  {
+    "name": "Cantina Studențească",
+    "type": "food",
+    "location": "Lângă Căminul C1",
+    "program": "11:00 - 18:00",
+    "tags": ["mâncare", "ieftin"]
+  },
+  {
+    "name": "Sala de Lectură",
+    "type": "studiu",
+    "location": "Corp B, Parter",
+    "program": "Non-stop",
+    "tags": ["studiu", "individual"]
+  },
+  {
+    "name": "Workshop Web Dev",
+    "type": "eveniment",
+    "location": "Laborator Informatică",
+    "program": "Joi, 14:00",
+    "tags": ["evenimente", "curs", "javascript"]
+  },
+  {
+    "name": "Campionat de Șah",
+    "type": "eveniment",
+    "location": "Holul Central",
+    "program": "Vineri, 16:00",
+    "tags": ["evenimente", "recreere"]
+  }
+]
